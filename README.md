@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aarah Jahufar</h1>
-<h3 align="center">I am a 3rd year Computer Engineering Undergraduate at University of Peradeniya. I am a creative individual with a zeal for innovation. Passionate about mobile app development and experienced in Java, Python, C, C++, Flutter, and Dart.</h3>
+<h3 align="center">I am a final year Computer Engineering Undergraduate at University of Peradeniya. I am a creative individual with a zeal for innovation. Passionate about mobile app development and experienced in Java, Python, C, Flutter, Dart, Angular, Spring Boot, MySql, PostgreSQL and Git.</h3>
 
-- 🌱 I’m currently learning **Machine Learning and**
+- 🌱 I’m currently learning **MicroService Architecture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
